@@ -1,2 +1,2 @@
-# timetable
-Android Mobile App for Showing My University Seminars and Timetable -  First Android App to Develop(2014)
+# Timetable for My College Seminars and Lectures
+Android Mobile App for Showing My College Timetable for Seminars and Lectures -  First Android App to Develop(2014)
